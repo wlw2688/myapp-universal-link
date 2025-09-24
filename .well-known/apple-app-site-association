@@ -1,1 +1,10 @@
-
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "D537JKPB8R.com.kkv2.keyboard",
+        "paths": [ "/open*" ]
+      }
+    ]
+  }
+}
